@@ -1,0 +1,68 @@
+[
+  {
+    "id": "a2bba696-149b-4d94-b77f-c04716ec8ac5",
+    "query": "google",
+    "at": "2025-08-27T05:41:33.050Z",
+    "engines": [
+      {
+        "name": "ChatGPT",
+        "status": "done",
+        "score": 62
+      },
+      {
+        "name": "Perplexity",
+        "status": "done",
+        "score": 48
+      },
+      {
+        "name": "Copilot",
+        "status": "done",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "id": "e864ce05-5c0d-4723-90a3-e675e3137976",
+    "query": "google",
+    "at": "2025-08-27T05:42:05.637Z",
+    "engines": [
+      {
+        "name": "ChatGPT",
+        "status": "done",
+        "score": 62
+      },
+      {
+        "name": "Perplexity",
+        "status": "done",
+        "score": 48
+      },
+      {
+        "name": "Copilot",
+        "status": "done",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "id": "c8566d42-2db7-463d-b4fc-5bae4749a963",
+    "query": "yahoo",
+    "at": "2025-08-27T05:42:20.731Z",
+    "engines": [
+      {
+        "name": "ChatGPT",
+        "status": "done",
+        "score": 62
+      },
+      {
+        "name": "Perplexity",
+        "status": "done",
+        "score": 48
+      },
+      {
+        "name": "Copilot",
+        "status": "done",
+        "score": 30
+      }
+    ]
+  }
+]
